@@ -1,3 +1,10 @@
+#Inducil, Raphael Clouiee A.
+#BsCpE 1-2
+#february 27, 2025
+#DeepSeek Integration
+
+#This program is a chatbot that uses the DeepSeek API to generate responses to user questions. The user can ask questions and the chatbot will generate a response using the DeepSeek API. The chatbot will continue to generate responses until the user decides to stop.
+>>>>>>> 8b611eb (Updated commit with new changes)
 import requests
 import json
 
